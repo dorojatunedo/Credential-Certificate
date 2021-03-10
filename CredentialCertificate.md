@@ -1,5 +1,4 @@
-# Credential Certificate 
-# Technology Workshop 
+# Credential Certificate Technology Workshop 
 # Tokopedia Academy
 # Introduction to Reactive Programming with RxSwift
 https://lnkd.in/gWP2aan 
